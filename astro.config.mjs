@@ -9,4 +9,5 @@ export default defineConfig({
   vite: {
     plugins: [tailwind()],
   },
+  site: 'https://example.com',
 });
